@@ -131,6 +131,3 @@ dist
 
 # DB password
 db/
-
-# Docker compose file
-compose.yaml
